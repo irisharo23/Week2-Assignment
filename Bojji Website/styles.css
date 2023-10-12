@@ -1,0 +1,77 @@
+body {
+    background-color: #beccb9;
+}
+
+
+h1 {
+    color: #608eff;
+    text-align: center;
+    text-shadow:gray 1px 2px;
+}
+
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+    text-align: left;
+    font-size: larger;
+    color:rgb(85, 85, 163)
+}
+
+
+#Link-paragraph {
+    font-size: smaller;
+    text-align: center; 
+}
+
+
+img {
+    float: right;
+    border-radius: 10px;
+}
+
+
+.Hello {
+    font-size: 60px;
+    color: #608eff;
+}
+
+
+#Bullet-points {
+    color:#608eff;
+    font-size: larger;
+    text-shadow: gray 1px 1px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+
+th,td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    color:rgb(85, 85, 163);
+    background-color: aliceblue;
+}
+
+tr :hover {
+    background-color: gray;
+}
+
+
+.Heading {
+    color: #608eff;
+}
+
+.Choose-Wisely {
+    color: #608eff;
+}
+
+.Picture-reference {
+    color:rgb(85, 85, 163) ;
+}
+
+#last-picture {
+    float: left;
+}
